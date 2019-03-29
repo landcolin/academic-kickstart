@@ -33,7 +33,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in GNC"
+  course = "PhD in Guidance, Navigation & Control"
   institution = "Beihang University"
   year = 2017
 
@@ -45,7 +45,7 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:klu@seu.edu.cn".
+  link = "mailto:klu@seu.edu.cn"  # For a direct email link, use "mailto:klu@seu.edu.cn".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
